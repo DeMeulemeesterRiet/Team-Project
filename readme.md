@@ -1,3 +1,9 @@
+# Team Project - HartslagEscapeGame
+Teamleden:
+- Riet De Meulemeester
+- Ayline Vancraeyveldt
+- Yasna Demasure
+
 # Installatiehandleiding
 
 ## Compatibele hartslagsensoren
